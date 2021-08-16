@@ -1,0 +1,140 @@
+#complete_banner {
+    position: absolute;
+    width: 1920px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#banner_rectangle {
+    fill: rgba(128,19,54,1);
+}
+.banner_rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+}
+#icono_kuma {
+    position: absolute;
+    width: 175px;
+    height: 88px;
+    left: 69px;
+    top: 11px;
+    overflow: visible;
+}
+#titulo_kuma {
+    left: 262px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 482px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Franklin Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 78px;
+    color: rgba(255,193,79,1);
+}
+#home_div {
+    position: absolute;
+    width: 122px;
+    height: 96px;
+    left: 1244px;
+    top: 0px;
+    overflow: visible;
+}
+#home_container {
+    fill: rgba(255,193,79,1);
+}
+.home_container {
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+#Home {
+    left: 23px;
+    top: 54px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Franklin Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(128,19,54,1);
+}
+#about_div {
+    position: absolute;
+    width: 122px;
+    height: 96px;
+    left: 1382px;
+    top: 0px;
+    overflow: visible;
+}
+#about_container {
+    fill: rgba(255,193,79,1);
+}
+.about_container {
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+#About {
+    left: 22px;
+    top: 54px;
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Franklin Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(128,19,54,1);
+}
+#contact_div {
+    position: absolute;
+    width: 122px;
+    height: 96px;
+    left: 1520px;
+    top: 0px;
+    overflow: visible;
+}
+#contact_container {
+    fill: rgba(255,193,79,1);
+}
+.contact_container {
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+#Contact {
+    left: 10px;
+    top: 54px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Franklin Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(128,19,54,1);
+}

@@ -28,6 +28,38 @@
   color: #61dafb;
 }
 
+#foto_twitch {
+  filter: drop-shadow(0px 13px 14px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  width: 1406px;
+  height: 738px;
+  left: 257px;
+  top: 235px;
+  overflow: visible;
+}
+
+#Fondo {
+  opacity: 0.21;
+  position: absolute;
+  width: 2182px;
+  height: 1654px;
+  left: -79px;
+  top: -112px;
+  overflow: visible;
+}
+
+#LangingPage1Parcial1TI {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(255,238,182,1);
+  overflow: hidden;
+  --web-view-name: LangingPage1Parcial1TI;
+  --web-view-id: LangingPage1Parcial1TI;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

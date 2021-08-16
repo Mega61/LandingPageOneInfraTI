@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import BannerPrincipal from './BannerPrincipal';
+import BannerTwitch from './BannerTwitch';
+import img1 from './img/foto_twitch.png'
+import img2 from './img/Fondo.png'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="LangingPage1Parcial1TI">
+        <img id="Fondo" src={img2} alt="FONDO"></img>
+        <BannerPrincipal />
+        <img id="foto_twitch" src={img1} alt="FONDO"></img>
+        <BannerTwitch />
+      </div>
     </div>
   );
 }

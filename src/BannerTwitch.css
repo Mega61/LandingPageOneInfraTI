@@ -1,0 +1,87 @@
+#twitch_banner {
+    position: absolute;
+    width: 1364px;
+    height: 79px;
+    left: 278px;
+    top: 164px;
+    overflow: visible;
+}
+#twitch_rectangle {
+    fill: rgba(14,14,16,1);
+}
+.twitch_rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 1364px;
+    height: 79px;
+    left: 0px;
+    top: 0px;
+}
+#twitch_letras {
+    position: absolute;
+    width: 126px;
+    height: 71px;
+    left: 95px;
+    top: 8px;
+    overflow: visible;
+}
+#logo_twitch {
+    position: absolute;
+    width: 64.486px;
+    height: 67.437px;
+    left: 16.305px;
+    top: 5.782px;
+    overflow: visible;
+}
+#Trazado_4 {
+    fill: rgba(255,255,255,1);
+}
+.Trazado_4 {
+    overflow: visible;
+    position: absolute;
+    width: 54.828px;
+    height: 60.584px;
+    left: 6.87px;
+    top: 2.676px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_zocial-twitch {
+    position: absolute;
+    width: 64.486px;
+    height: 67.437px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trazado_2 {
+    fill: rgba(166,69,255,1);
+}
+.Trazado_2 {
+    overflow: visible;
+    position: absolute;
+    width: 64.486px;
+    height: 67.437px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_3 {
+    fill: rgba(166,69,255,1);
+}
+.Trazado_3 {
+    overflow: visible;
+    position: absolute;
+    width: 21.976px;
+    height: 17.588px;
+    left: 26.385px;
+    top: 17.597px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#kuma_twitch {
+    position: absolute;
+    width: 133px;
+    height: 67px;
+    left: 1160px;
+    top: 4px;
+    overflow: visible;
+}
