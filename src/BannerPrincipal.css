@@ -138,3 +138,12 @@
     font-size: 28px;
     color: rgba(128,19,54,1);
 }
+#Fondo {
+    opacity: 0.21;
+    position: absolute;
+    width: 2182px;
+    height: 1654px;
+    left: -79px;
+    top: -112px;
+    overflow: visible;
+  }
